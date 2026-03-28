@@ -60,6 +60,9 @@ sudo apt install nginx nodejs npm python3-pip -y
 # Verify installations
 nginx -v && node -v && python3 --version
 
+---
+
+
 ##  Phase 4: Environment Verification Checklist
 Before handing the server over to the testing team, verify the configuration against the following criteria to ensure the environment is stable and correctly provisioned.
 
