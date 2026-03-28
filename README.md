@@ -2,7 +2,7 @@
 SOP Documentation
 # Standard Operating Procedure: Virtual Linux Server Setup
 **Title:** Provisioning a Linux Environment for Web Application Testing  
-**Document ID:** SOP-QA-001  
+**Document ID:** SOP-MITT-001  
 **Version:** 1.0  
 **Status:** Active  
 
@@ -17,7 +17,7 @@ Before beginning the installation, ensure the hypervisor (VirtualBox, VMware, or
 
 | Resource | Requirement |
 | :--- | :--- |
-| **Operating System** | Ubuntu 22.04 LTS (Jammy Jellyfish) |
+| **Operating System** | Ubuntu 22.04 LTS |
 | **CPU** | 2 vCPUs |
 | **Memory (RAM)** | 4 GB |
 | **Storage** | 40 GB SSD (Thin Provisioned) |
