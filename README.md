@@ -1,7 +1,7 @@
 # SOP: Virtual Linux Server Setup for Web Application Testing
-**Document ID:** SOP-WTS-001  
+**Document ID:** SOP-MITT-001 
 **Version:** 1.0  
-**Owner:** DevOps / QA Team  
+**Owner:** Jun Santos III Sagucio
 
 ---
 
@@ -16,7 +16,7 @@ Before deployment, allocate the following virtual resources to ensure the testin
 *   **Memory:** 4 GB RAM
 *   **Storage:** 30 GB SSD
 *   **Networking:** Static IP or DHCP Reservation; Bridged Adapter preferred for external accessibility.
-*   **Hostname:** `web-test-bench-01`
+*   **Hostname:** `Mitt-student1`
 
 ## 3. Initial OS Setup and Hardening
 Follow these steps to initialize the server after the first boot:
