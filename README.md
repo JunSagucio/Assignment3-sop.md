@@ -22,7 +22,7 @@ Before beginning the installation, ensure the hypervisor (VirtualBox, VMware, or
 | **Memory (RAM)** | 4 GB |
 | **Storage** | 40 GB SSD (Thin Provisioned) |
 | **Network Mode** | Bridged Adapter (for unique LAN IP) |
-| **Hostname** | `test-webserver-01` |
+| **Hostname** | `MITT test-server` |
 
 ---
 
