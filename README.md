@@ -32,7 +32,7 @@ Before beginning the installation, ensure the hypervisor (VirtualBox, VMware, or
 1. **Boot from ISO:** Load the Ubuntu 22.04 Server ISO into the virtual drive.
 2. **User Configuration:** Create a primary administrative user:
    - **Username:** `test-admin`
-   - **Password:** testpassword
+   - **Password:** `testpassword`
 3. **Network Configuration:** Set a static IP address if possible, or ensure DHCP is active.
 4. **SSH Access:** Select "Install OpenSSH Server" during the setup wizard to allow remote terminal access.
 
