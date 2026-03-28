@@ -47,3 +47,15 @@ sudo ufw allow 22/tcp
 sudo ufw allow 80/tcp
 sudo ufw allow 443/tcp
 sudo ufw enable
+
+##  Phase 3: Software Stack & Testing Tools
+This phase installs the core environment and the specialized tools required for comprehensive web application probing.
+
+### A. Web Server & Runtime Environment
+Install the primary web server (Nginx) and common language runtimes used by modern testing frameworks.
+```bash
+# Install Nginx and language runtimes
+sudo apt install nginx nodejs npm python3-pip -y
+
+# Verify installations
+nginx -v && node -v && python3 --version
